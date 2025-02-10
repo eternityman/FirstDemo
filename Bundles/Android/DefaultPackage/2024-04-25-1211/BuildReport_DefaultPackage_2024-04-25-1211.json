@@ -1,0 +1,122 @@
+{
+    "Summary": {
+        "YooVersion": "",
+        "UnityVersion": "2021.3.18f1c1",
+        "BuildDate": "2024/4/25 20:12:08",
+        "BuildSeconds": 15,
+        "BuildTarget": 13,
+        "BuildMode": 1,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-04-25-1211",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 5,
+        "MainAssetTotalCount": 3,
+        "AllBundleTotalCount": 4,
+        "AllBundleTotalSize": 2272828,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Resources_PatchWindow",
+            "AssetPath": "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Resources/PatchWindow.prefab",
+            "AssetGUID": "cd3c0e69e672e0f4cb953ab81d5644e9",
+            "AssetTags": [],
+            "MainBundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_resources.bundle",
+            "MainBundleSize": 1099121,
+            "DependAssets": [
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/GameArt/UIFont/zekton free.ttf",
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/GameRes/UIImage/Space.jpg"
+            ]
+        },
+        {
+            "Address": "Resources_YooAssetSettings",
+            "AssetPath": "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Resources/YooAssetSettings.asset",
+            "AssetGUID": "14eb3f660b9d6ba4eb3b669b94ac4886",
+            "AssetTags": [],
+            "MainBundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_resources.bundle",
+            "MainBundleSize": 1099121,
+            "DependAssets": []
+        },
+        {
+            "Address": "Space Shooter_Boot",
+            "AssetPath": "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Boot.unity",
+            "AssetGUID": "de48a3f017953b64caf44ad98b097d10",
+            "AssetTags": [],
+            "MainBundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_boot.bundle",
+            "MainBundleSize": 65974,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_resources.bundle",
+            "FileName": "a9fd891696e5c6705156afe6789b7da8.bundle",
+            "FileHash": "a9fd891696e5c6705156afe6789b7da8",
+            "FileCRC": "505e24df",
+            "FileSize": 1099121,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameart_uifont.bundle",
+                "share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameres_uiimage.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Resources/PatchWindow.prefab",
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Resources/YooAssetSettings.asset"
+            ]
+        },
+        {
+            "BundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_boot.bundle",
+            "FileName": "f4829bc123e282e1fd974312c8d73ff3.bundle",
+            "FileHash": "f4829bc123e282e1fd974312c8d73ff3",
+            "FileCRC": "f386eed9",
+            "FileSize": 65974,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Boot.unity"
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameart_uifont.bundle",
+            "FileName": "d31659b2f3990c09ae43dc06b15ac290.bundle",
+            "FileHash": "d31659b2f3990c09ae43dc06b15ac290",
+            "FileCRC": "824c0374",
+            "FileSize": 19095,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/GameArt/UIFont/zekton free.ttf"
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameres_uiimage.bundle",
+            "FileName": "6efdff3cd56d71fd64358336f2fbfb9a.bundle",
+            "FileHash": "6efdff3cd56d71fd64358336f2fbfb9a",
+            "FileCRC": "178bfbdc",
+            "FileSize": 1088638,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/GameRes/UIImage/Space.jpg"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

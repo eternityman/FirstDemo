@@ -1,0 +1,56 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": false,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "test",
+    "PackageVersion": "2024-06-27-1200",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/Texture/sprite/common_back.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "a"
+            ],
+            "BundleID": 0
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Texture/texture/mining_adorn_figure.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "b"
+            ],
+            "BundleID": 1
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_texture_sprite.bundle",
+            "UnityCRC": 436739785,
+            "FileHash": "d04007019d9e73995064e9f8c249f1a1",
+            "FileCRC": "41875af3",
+            "FileSize": 5954,
+            "Encrypted": false,
+            "Tags": [
+                "a"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_texture_texture.bundle",
+            "UnityCRC": 2009379803,
+            "FileHash": "a7aec8890e62c73f799869e50df46ab7",
+            "FileCRC": "33e9f1c2",
+            "FileSize": 35535,
+            "Encrypted": false,
+            "Tags": [
+                "b"
+            ],
+            "DependIDs": []
+        }
+    ]
+}
