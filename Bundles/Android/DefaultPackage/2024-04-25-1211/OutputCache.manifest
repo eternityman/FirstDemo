@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2981127798
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_thirdparty_yooasset_samples~_1_space_shooter_resources.bundle
+      Dependencies:
+        Dependency_0: share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameart_uifont.bundle
+        Dependency_1: share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameres_uiimage.bundle
+    Info_1:
+      Name: assets_thirdparty_yooasset_samples~_1_space_shooter_boot.bundle
+      Dependencies: {}
+    Info_2:
+      Name: share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameart_uifont.bundle
+      Dependencies: {}
+    Info_3:
+      Name: share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameres_uiimage.bundle
+      Dependencies: {}

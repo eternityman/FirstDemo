@@ -1,0 +1,78 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-04-25-1211",
+    "AssetList": [
+        {
+            "Address": "Resources_PatchWindow",
+            "AssetPath": "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Resources/PatchWindow.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Resources_YooAssetSettings",
+            "AssetPath": "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Resources/YooAssetSettings.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Space Shooter_Boot",
+            "AssetPath": "Assets/ThirdParty/YooAsset/Samples~ 1/Space Shooter/Boot.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_resources.bundle",
+            "UnityCRC": 3459467512,
+            "FileHash": "a9fd891696e5c6705156afe6789b7da8",
+            "FileCRC": "505e24df",
+            "FileSize": 1099121,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                2,
+                3
+            ]
+        },
+        {
+            "BundleName": "assets_thirdparty_yooasset_samples~_1_space_shooter_boot.bundle",
+            "UnityCRC": 2875476550,
+            "FileHash": "f4829bc123e282e1fd974312c8d73ff3",
+            "FileCRC": "f386eed9",
+            "FileSize": 65974,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameart_uifont.bundle",
+            "UnityCRC": 1319282419,
+            "FileHash": "d31659b2f3990c09ae43dc06b15ac290",
+            "FileCRC": "824c0374",
+            "FileSize": 19095,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_thirdparty_yooasset_samples~_1_space_shooter_gameres_uiimage.bundle",
+            "UnityCRC": 864406118,
+            "FileHash": "6efdff3cd56d71fd64358336f2fbfb9a",
+            "FileCRC": "178bfbdc",
+            "FileSize": 1088638,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}
